@@ -15,4 +15,7 @@ se puede ver el siguiente output
 Dentro de la carpeta de resources se ejecuta correctamente el codigo tipo js
 
 
+## Author
+
+Nicolas Achuri
 
